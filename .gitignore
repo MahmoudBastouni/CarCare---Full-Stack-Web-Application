@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Compiled Java files
+*.class
+target/
+
+# Build output
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
